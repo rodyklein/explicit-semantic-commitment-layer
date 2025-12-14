@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+title: "Explicit Semantic Commitment Layer"
+message: "If you use this work, please cite it as below."
+type: software
+authors:
+  - family-names: Klein
+    given-names: Rody
+abstract: >
+  A minimal open-source layer enabling users to explicitly declare the meaning
+  they assign to terms, and requiring AI systems to treat these declarations
+  as authoritative semantic commitments.
+year: 2025
+repository-code: "https://github.com/rodyklein/explicit-semantic-commitment-layer"
