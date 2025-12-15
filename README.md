@@ -3,7 +3,7 @@
 **Zenodo DOI (all versions):**  
 https://doi.org/10.5281/zenodo.17936079
 
-A minimal open-source layer enabling users to explicitly declare the meaning...
+A minimal open-source layer enabling users to explicitly declare the meaning.
 
 A minimal open-source layer enabling users to explicitly declare the meaning they assign to terms,  
 and requiring AI systems to treat these declarations as persistent semantic commitments.
